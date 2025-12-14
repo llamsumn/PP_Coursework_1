@@ -82,6 +82,7 @@ This project is contained within a single Jupyter Notebook file (`Coursework.ipy
 ## Contact
 
 | Component | Information |
+| :--- | :--- |
 | **Author** | Lam Chun Lung Leo |
 | **Email** | leolam725@gmail.com |
 | **LinkedIn** | https://www.linkedin.com/in/lam-chun-lung-leo-leo-b27406172/ |
