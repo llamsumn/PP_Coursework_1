@@ -1,8 +1,6 @@
 # ASSESSMENT FEEDBACK --- PART 1 (REFORMATTED)
 
-====================================================== \## PROBLEM 1 ---
-LIBRARY BOOK TRACKER
-======================================================
+## PROBLEM 1 --- LIBRARY BOOK TRACKER
 
 ### 1. CODE QUALITY & CORRECTNESS
 
@@ -38,9 +36,7 @@ Appending `None` to a customer's borrowed list → printed output includes
 
 ------------------------------------------------------------------------
 
-====================================================== \## PROBLEM 2 ---
-STUDENT GRADE ANALYSER
-======================================================
+## PROBLEM 2 --- STUDENT GRADE ANALYSER
 
 ### 1. CODE QUALITY & CORRECTNESS
 
@@ -72,9 +68,7 @@ score \* weight.
 
 ------------------------------------------------------------------------
 
-====================================================== \## PROBLEM 3 ---
-MOVIE RECOMMENDATION HELPER
-======================================================
+## PROBLEM 3 --- MOVIE RECOMMENDATION HELPER
 
 ### 1. CODE QUALITY & CORRECTNESS
 
@@ -103,8 +97,7 @@ returning data.\
 
 ------------------------------------------------------------------------
 
-====================================================== \## PROBLEM 4 ---
-EXPENSE SPLITTER ======================================================
+## PROBLEM 4 --- EXPENSE SPLITTER
 
 ### 1. CODE QUALITY & CORRECTNESS
 
@@ -135,9 +128,7 @@ summary.
 
 ------------------------------------------------------------------------
 
-====================================================== \## PROBLEM 5 ---
-BOOLEAN LOGIC EVALUATOR
-======================================================
+## PROBLEM 5 --- BOOLEAN LOGIC EVALUATOR
 
 ### 1. CODE QUALITY & CORRECTNESS
 
